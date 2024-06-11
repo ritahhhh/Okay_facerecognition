@@ -1,0 +1,2 @@
+0 Okay
+1 Not Okay
